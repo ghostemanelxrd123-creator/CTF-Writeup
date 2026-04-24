@@ -1,4 +1,4 @@
-# Cryptography & Steganography task by @CppCpy aka RubEas
+# Cryptography & Steganography PermCTF junior 2026 межвузовская 
 **Дата:** 24.04.2026
 
 ##Task description
