@@ -14,7 +14,8 @@
 <img width="1280" height="688" alt="photo_2026-04-25_15-02-33" src="https://github.com/user-attachments/assets/f40f94c5-2718-4548-bcba-e70ead20ffe9" />
 
 ## Flag
+```
 DUCKERZ{blu3t00t4_15_4ls0_an_op2i0n}
-
+```
 
 By ghostemanelxrd123-creator (Дмитрий)
