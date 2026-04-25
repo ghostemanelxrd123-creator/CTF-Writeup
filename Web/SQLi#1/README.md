@@ -15,6 +15,7 @@
 <img width="1194" height="690" alt="photo_2026-04-24_21-47-35" src="https://github.com/user-attachments/assets/932e8f3f-d682-4c28-9a60-dd334f1e9723" />
 
 ## Flag
+```
 Флаг: spbctf{I_am_girl_magician!!}
-
+```
 By ghostemanelxrd123-create (Дмитрий)
