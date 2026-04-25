@@ -16,6 +16,6 @@
 
 ## Flag
 ```
-Флаг: spbctf{I_am_girl_magician!!}
+spbctf{I_am_girl_magician!!}
 ```
 By ghostemanelxrd123-create (Дмитрий)
