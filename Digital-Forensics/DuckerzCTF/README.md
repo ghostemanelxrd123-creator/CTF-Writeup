@@ -1,4 +1,4 @@
-# Duckerz DF CTF
+# Duckerz Digital Forensics CTF
 **Дата:** 24.04.2026
 
 
