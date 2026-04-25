@@ -24,6 +24,8 @@
 
 ## Flag
 И так, подставив декодированные значения я получил полный флаг:
+```
 **pstuctf{hello_it_lunh_algorithm}**
+```
 
 By ghostemanelxrd123-creator (Дмитрий)
