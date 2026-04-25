@@ -1,5 +1,6 @@
 # Cryptography & Steganography PermCTF junior 2026
 **Дата:** 24.04.2026
+**Source:** test_cards.txt
 
 ## Task description
 Анализ массива данных, нахождение скрытых записей, извлечение флага.
